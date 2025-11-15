@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://github.com/volmaksDev/volmaksDev/blob/main/name.svg" alt="volmaks.dev" />
+</h1>
 
-<!--
-**volmaksDev/volmaksDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+My name is Max, I'm an experienced Roblox developer with over 5 years of experience.
 
-Here are some ideas to get you started:
+- 🦔 Founder of [Revenge Hub](https://discord.gg/2UbRP88afj) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 I'm looking for small orders/script requests for various games/anti-cheat checks in games.
+
+- 👥 I'm building a team of skilled developers to bring a new era of scripting to Roblox.
+
++ a lot more ;)
+
+## Skills
+- 👨‍💻 Lua, Python
+- 👁️ Checking roblox games for vulnerabilities
+- 🛡️ I check anti-cheats in games, as well as possible methods to bypass them.
++ a lot more :D
+
+## Contact
+- volmaks.dev (Discord)
+- [My Discord Server](https://discord.gg/2UbRP88afj)
